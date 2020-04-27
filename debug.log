@@ -1,0 +1,7 @@
+[0324/140552.517:ERROR:process_info.cc(359)] UncheckedAllocate
+[0325/163432.083:ERROR:process_info.cc(359)] UncheckedAllocate
+[0325/234458.842:ERROR:process_info.cc(359)] UncheckedAllocate
+[0327/173338.206:ERROR:process_info.cc(359)] UncheckedAllocate
+[0327/173338.503:ERROR:file_io.cc(134)] WriteFile: Não existem recursos de sistema suficientes para concluir o serviço solicitado. (0x5AA)
+[0327/173338.534:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0327/173338.550:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\ACER\AppData\Local\Google\Chrome\User Data\Crashpad\reports\b01b03ac-6ed8-49e7-bea0-cf4e791ad5d4.dmp: O arquivo já está sendo usado por outro processo. (0x20)
